@@ -5,19 +5,16 @@ Exemplo 1: <br>
 
 Entrada: a = 2, b = [3] <br>
 Saída: 8 <br>
-Explicação: 2^3 mod 1337 = 8 <br>
 
 Exemplo 2: 
 
 Entrada: a = 2, b = [1,0] <br>
 Saída: 1024 <br>
-Explicação: 2^10 mod 1337 = 1024 <br>
 
 Exemplo 3:
 
 Entrada: a = 1, b = [4,3,3,8,5,2] <br>
 Saída: 1 <br>
-Explicação: 1^433852 mod 1337 = 1 <br>
 
 Restrições:
 
