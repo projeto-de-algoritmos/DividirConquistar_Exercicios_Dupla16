@@ -34,6 +34,10 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ### Exercicio 2 (Médio) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [CÓDIGO](MaximumSubarray/MaximumSubarray.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/18804a01-960a-4e33-be74-ffa0e325b6ec)
 
+### Exercício 3 (Médio) - [Super Pow](https://leetcode.com/problems/super-pow/) - [CÓDIGO](SuperPow/SuperPow.js)
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/246399f8-255e-4ebb-9c06-57e3b394098f)
+
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
