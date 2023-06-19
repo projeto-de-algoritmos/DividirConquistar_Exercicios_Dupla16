@@ -31,7 +31,7 @@ Descreva os objetivos do seu projeto e como ele funciona.
 
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/e42c7e6f-0e88-46dd-be43-24e9d2b75fa5)
 
-### Exercicio 2 (Médio) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+### Exercicio 2 (Médio) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [CÓDIGO](MaximumSubarray/MaximumSubarray.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/18804a01-960a-4e33-be74-ffa0e325b6ec)
 
 
