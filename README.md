@@ -1,30 +1,16 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Dividir e Conquistar
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 16<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0086131  |  Davi Ranieri Fonsêca |
+| 19/0094478  |  Pedro Henrique Nogueira Bragança |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercícios do assunto Dividir e Conquistar do [leetcode](https://leetcode.com/)
 
 ## Screenshots
 ### Exercicio 1 (Difícil) - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) - [CÓDIGO](NumberPairs/NumberPairs.js)
@@ -37,19 +23,9 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ### Exercício 3 (Médio) - [Super Pow](https://leetcode.com/problems/super-pow/) - [CÓDIGO](SuperPow/SuperPow.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/246399f8-255e-4ebb-9c06-57e3b394098f)
 
-
+### Exercício 4 (Médio) - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [CÓDIGO](LongestPalindromicSubstring/LongestPalindromicSubstring.js)
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/65533883-b0f2-4935-9c47-01dd2dfd9748)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: JavaScript<br>
+Para testar os códigos, clone o repositório e, com o auxílio da descrição de cada um dos problemas no link do leetcode
