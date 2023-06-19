@@ -27,7 +27,8 @@ Temas:
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Exercicio 1 (Difícil) - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+#### Exercicio 1 (Difícil) - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+[CÓDIGO](NumberPairs/NumberPairs.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/e42c7e6f-0e88-46dd-be43-24e9d2b75fa5)
 
 ## Instalação 
