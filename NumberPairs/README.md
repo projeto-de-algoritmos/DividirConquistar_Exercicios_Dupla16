@@ -28,6 +28,6 @@ Não existe nenhum par que satisfaça as condições, portanto retornamos 0. <br
 Restrições: <br>
 
 n == nums1.length == nums2.length <br>
-2 <= n <= 105 <br>
--104 <= nums1[i], nums2[i] <= 104 <br>
--104 <= diff <= 104 <br>
+2 <= n <= 10^5 <br>
+-10^4 <= nums1[i], nums2[i] <= 10^4 <br>
+-10^4 <= diff <= 10^4 <br>
