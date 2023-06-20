@@ -26,8 +26,12 @@ Resolução de exercícios do assunto Dividir e Conquistar do [leetcode](https:/
 ### Exercício 4 (Médio) - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [CÓDIGO](LongestPalindromicSubstring/LongestPalindromicSubstring.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/65533883-b0f2-4935-9c47-01dd2dfd9748)
 
-### Exercício 5 (Médio) - [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - [CÓDIGO](KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.js
+### Exercício 5 (Médio) - [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - [CÓDIGO](KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/d6cc5eb8-5561-4463-9a75-51bd8ddec172)
+
+### Exercício 5 (Difícil) - [Count Of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - [CÓDIGO](CountOfSmallerNumbersAfterSelf/CountOfSmallerNumbersAfterSelf.js)
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/0cfbf090-bc40-45c4-9ad1-eeee9818b44c)
+
 
 ## Instalação 
 **Linguagem**: JavaScript<br>
