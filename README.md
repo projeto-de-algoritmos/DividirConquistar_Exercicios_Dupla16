@@ -26,6 +26,9 @@ Resolução de exercícios do assunto Dividir e Conquistar do [leetcode](https:/
 ### Exercício 4 (Médio) - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [CÓDIGO](LongestPalindromicSubstring/LongestPalindromicSubstring.js)
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/65533883-b0f2-4935-9c47-01dd2dfd9748)
 
+### Exercício 5 (Médio) - [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - [CÓDIGO](KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.js
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/86808578/d6cc5eb8-5561-4463-9a75-51bd8ddec172)
+
 ## Instalação 
 **Linguagem**: JavaScript<br>
 Para testar os códigos, clone o repositório e, com o auxílio da descrição de cada um dos problemas no link do leetcode
